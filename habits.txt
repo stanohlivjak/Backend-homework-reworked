@@ -29,3 +29,7 @@ Sixth habit:
 -collaborate
 -don't do things alone
 -programming is "team sport"
+
+Seventh habit:
+-get used to be lonely
+-programming is solo activity
