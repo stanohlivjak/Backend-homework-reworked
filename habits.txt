@@ -24,3 +24,8 @@ Fourth habit:
 Fifth habit:
 -get out of your confront zone
 -always learn new things
+
+Sixth habit:
+-collaborate
+-don't do things alone
+-programming is "team sport"
