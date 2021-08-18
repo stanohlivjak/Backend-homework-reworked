@@ -10,3 +10,9 @@ Second habi:
 -keep eye on goal
 -be productive
 -don't polish little things
+
+Third habit:
+-keep it simple
+-don't over-engineer
+-keep code simple
+-easy to read
