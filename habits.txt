@@ -16,3 +16,7 @@ Third habit:
 -don't over-engineer
 -keep code simple
 -easy to read
+
+Fourth habit:
+-get in the "Zone"
+-don't get interrupted
